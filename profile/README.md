@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Millard West Computer Science's Repositories!
 
 <!--
 
